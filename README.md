@@ -1,5 +1,5 @@
 # PC_PowerBI_Project
-# Project Description:
+# Project1 Covid-19 dashboard Description:
 
 1. Aim: Our project aims to analyze and present comprehensive insights into the trends and patterns of COVID-19 vaccinations worldwide.
 
@@ -25,7 +25,20 @@
 
 12. Insights and Recommendations: Based on the analysis, we offer valuable insights and recommendations, emphasizing equitable vaccine distribution, strengthening vaccination campaigns, monitoring vaccine efficacy, and promoting data-driven decision-making.
 
+
+# Project2 HR dashboard Description: 
+1. The project focused on conducting a comprehensive analysis of the HR dataset to identify the supply and demand gap within the organization. The aim was to provide strategic insights for talent management and decision-making.
+
+2. Using Power BI, a dynamic HR dashboard was created with various visualizations and charts. The dashboard covered important aspects such as employee demographics, job satisfaction, salary trends, and distance from home.
+
+3. The analysis provided key findings and actionable insights. It revealed gender-based salary disparities, variations in job satisfaction levels, and the impact of age and commuting distance on the workforce.
+
+4. The project utilized different visualization techniques, including marks cards, bar charts, tables, comparison charts, stacked bar charts, donut charts, funnel charts, and pie charts. These visualizations enabled a comprehensive understanding of the HR data and facilitated effective decision-making.
+
+5. The insights derived from the project can help the organization optimize talent management strategies, address gender pay disparities, enhance job satisfaction, and improve work-life balance for employees.
+
+
 # Conclusion:
 
-This project provides a comprehensive and visually appealing analysis of COVID-19 vaccination trends, empowering policymakers, healthcare professionals, and researchers with valuable insights to support effective vaccination strategies.
+These two projects provides a comprehensive and visually appealing analysis of COVID-19 and HR Industry in an organization about the:  vaccination trends, empowering policymakers, healthcare professionals, talent management employee demographics, job satisfaction, gender equality in the organization, salary trends and researchers with valuable insights to support effective strategies and decision making using the insights from the dashboards.
 
