@@ -35,7 +35,7 @@
 
 4. The project utilized different visualization techniques, including marks cards, bar charts, tables, comparison charts, stacked bar charts, donut charts, funnel charts, and pie charts. These visualizations enabled a comprehensive understanding of the HR data and facilitated effective decision-making.
 
-5. The insights derived from the project can help the organization optimize talent management strategies, address gender pay disparities, enhance job satisfaction, and improve work-life balance for employees.
+5. The insights derived from the project can help the organization optimize talent management strategies, address gender pay disparities, enhance job satisfaction, and improve work-life balance of employees.
 
 
 # Conclusion:
